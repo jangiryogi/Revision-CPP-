@@ -1,4 +1,5 @@
-Question: Write a C++ program that takes an integer n and prints a palindrome number pyramid.
+Qu
+: Write a C++ program that takes an integer n and prints a palindrome number pyramid.
 
   #include <iostream>
 using namespace std;
